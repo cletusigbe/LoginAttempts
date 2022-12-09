@@ -1,0 +1,11 @@
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\bin\Debug\LoginAttempts.exe.config
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\bin\Debug\LoginAttempts.exe
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\bin\Debug\LoginAttempts.pdb
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.csprojAssemblyReference.cache
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.Login.resources
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.Main.resources
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.Properties.Resources.resources
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.csproj.GenerateResource.cache
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.csproj.CoreCompileInputs.cache
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.exe
+C:\Users\cletu\Documents\Visual Studio 2017\Projects\LoginAttempts\LoginAttempts\obj\Debug\LoginAttempts.pdb
